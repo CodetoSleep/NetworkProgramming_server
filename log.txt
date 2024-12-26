@@ -1,112 +1,40 @@
-[2024-1-11 23:22:27] [SERVER] [i] Server is listening on port 8888
-[2024-1-11 23:22:36] [SERVER] [i] Accepted connection from 127.0.0.1:45728
-[2024-1-11 23:22:44] [SERVER] [i] Accepted connection from 127.0.0.1:45732
-[2024-1-11 23:22:53] [SERVER] [i] Received login request
-[2024-1-11 23:22:57] [SERVER] [i] Received login request
-[2024-1-11 23:22:58] [SERVER] [i] Received get friends request
-[2024-1-11 23:23:0] [SERVER] [i] Received get friends request
-[2024-1-11 23:23:4] [SERVER] [i] Received chat request
-[2024-1-11 23:23:8] [SERVER] [i] Received chat request
-[2024-1-11 23:23:23] [SERVER] [i] Received exit request
-[2024-1-11 23:23:23] [SERVER] [i] Accepted connection from 127.0.0.1:51948
-[2024-1-11 23:23:39] [SERVER] [i] Received register request
-[2024-1-11 23:23:39] [SERVER] [i] Accepted connection from 127.0.0.1:34638
-[2024-1-11 23:23:40] [SERVER] [i] Received register request
-[2024-1-11 23:23:41] [SERVER] [i] Accepted connection from 127.0.0.1:34652
-[2024-1-11 23:23:44] [SERVER] [i] Received register request
-[2024-1-11 23:23:44] [SERVER] [i] Accepted connection from 127.0.0.1:51824
-[2024-1-11 23:23:46] [SERVER] [i] Received login request
-[2024-1-11 23:24:34] [SERVER] [i] Accepted connection from 127.0.0.1:36554
-[2024-1-11 23:24:47] [SERVER] [i] Received login request
-[2024-1-11 23:24:48] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:48] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:49] [SERVER] [i] Received get history request
-[2024-1-11 23:24:49] [SERVER] [i] Received get top player request
-[2024-1-11 23:24:50] [SERVER] [i] Received get history request
-[2024-1-11 23:24:50] [SERVER] [i] Received get history request
-[2024-1-11 23:24:50] [SERVER] [i] Received get history request
-[2024-1-11 23:24:50] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:51] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:51] [SERVER] [i] Received get top player request
-[2024-1-11 23:24:52] [SERVER] [i] Received get top player request
-[2024-1-11 23:24:52] [SERVER] [i] Received get history request
-[2024-1-11 23:24:52] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:52] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:53] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:53] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:54] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:56] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:57] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:57] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:57] [SERVER] [i] Received get friends request
-[2024-1-11 23:24:58] [SERVER] [i] Received get history request
-[2024-1-11 23:24:58] [SERVER] [i] Received get history request
-[2024-1-11 23:24:58] [SERVER] [i] Received get history request
-[2024-1-11 23:24:59] [SERVER] [i] Received get top player request
-[2024-1-11 23:24:59] [SERVER] [i] Received get top player request
-[2024-1-11 23:25:0] [SERVER] [i] Received get top player request
-[2024-1-11 23:25:0] [SERVER] [i] Received get history request
-[2024-1-11 23:25:0] [SERVER] [i] Received get history request
-[2024-1-11 23:25:1] [SERVER] [i] Received get top player request
-[2024-1-11 23:25:2] [SERVER] [i] Received get history request
-[2024-1-11 23:25:2] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:2] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:3] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:8] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:9] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:9] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:10] [SERVER] [i] Received get history request
-[2024-1-11 23:25:11] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:12] [SERVER] [i] Received get history request
-[2024-1-11 23:25:12] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:13] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:23] [SERVER] [i] Received get history request
-[2024-1-11 23:25:23] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:24] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:25] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:25] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:25] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:25] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:25] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:25] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:25] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:26] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:26] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:26] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:26] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:26] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:26] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:26] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:26] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:27] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:27] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:27] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:27] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:27] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:27] [SERVER] [i] Received get friends request
-[2024-1-11 23:25:28] [SERVER] [i] Received get history request
-[2024-1-11 23:25:28] [SERVER] [i] Received get history request
-[2024-1-11 23:25:28] [SERVER] [i] Received get history request
-[2024-1-11 23:25:28] [SERVER] [i] Received get history request
-[2024-1-11 23:25:28] [SERVER] [i] Received get history request
-[2024-1-11 23:25:28] [SERVER] [i] Received get history request
-[2024-1-11 23:25:29] [SERVER] [i] Received get history request
-[2024-1-11 23:25:29] [SERVER] [i] Received get history request
-[2024-1-11 23:25:29] [SERVER] [i] Received get history request
-[2024-1-11 23:25:29] [SERVER] [i] Received get history request
-[2024-1-11 23:25:29] [SERVER] [i] Received get history request
-[2024-1-11 23:25:29] [SERVER] [i] Received get history request
-[2024-1-11 23:25:29] [SERVER] [i] Received get history request
-[2024-1-11 23:25:30] [SERVER] [i] Received get history request
-[2024-1-11 23:25:30] [SERVER] [i] Received get history request
-[2024-1-11 23:25:30] [SERVER] [i] Received get history request
-[2024-1-11 23:25:30] [SERVER] [i] Received get history request
-[2024-1-11 23:25:30] [SERVER] [i] Received get history request
-[2024-1-11 23:25:30] [SERVER] [i] Received get history request
-[2024-1-11 23:25:31] [SERVER] [i] Received get history request
-[2024-1-11 23:25:31] [SERVER] [i] Received get history request
-[2024-1-11 23:25:31] [SERVER] [i] Received get history request
-[2024-1-11 23:25:31] [SERVER] [i] Received get history request
-[2024-1-11 23:25:31] [SERVER] [i] Received get history request
-[2024-1-11 23:25:31] [SERVER] [i] Received get history request
-[2024-1-11 23:25:31] [SERVER] [i] Received get history request
+[2024-12-26 18:49:44] [SERVER] [i] Server is listening on port 8888
+[2024-12-26 18:51:27] [SERVER] [i] Accepted connection from 127.0.0.1:53958
+[2024-12-26 18:51:35] [SERVER] [i] Received login request
+[2024-12-26 18:52:22] [SERVER] [i] Received create room request
+[2024-12-26 18:52:22] [GAME] [i] Created room 531
+[2024-12-26 18:52:22] [SERVER] [i] Received invite friend request
+[2024-12-26 18:52:25] [SERVER] [i] Received start game request
+[2024-12-26 18:52:25] [GAME] [e] Room -1 not found
+[2024-12-26 18:52:43] [SERVER] [i] Received pause request
+[2024-12-26 18:52:43] [SERVER] [i] Received resume request
+[2024-12-26 18:52:45] [SERVER] [i] Received surrender request
+[2024-12-26 18:52:45] [GAME] [e] Room -1 not found
+[2024-12-26 18:52:45] [SERVER] [i] Received end game request
+[2024-12-26 18:52:45] [GAME] [e] Room -1 not found
+[2024-12-26 18:52:49] [SERVER] [i] Received get friends request
+[2024-12-26 18:52:52] [SERVER] [i] Received get friends request
+[2024-12-26 18:52:52] [SERVER] [i] Received get history request
+[2024-12-26 18:52:53] [SERVER] [i] Received get friends request
+[2024-12-26 18:53:1] [SERVER] [i] Received get friends request
+[2024-12-26 18:53:6] [SERVER] [i] Received add friend request
+[2024-12-26 18:53:30] [SERVER] [i] Accepted connection from 127.0.0.1:48956
+[2024-12-26 18:53:44] [SERVER] [i] Received login request
+[2024-12-26 18:53:50] [SERVER] [i] Received get friends request
+[2024-12-26 18:53:54] [SERVER] [i] Received add friend request
+[2024-12-26 18:53:56] [SERVER] [i] Received add friend request
+[2024-12-26 18:53:56] [SERVER] [i] Received add friend request
+[2024-12-26 18:53:56] [SERVER] [i] Received add friend request
+[2024-12-26 18:53:56] [SERVER] [i] Received add friend request
+[2024-12-26 18:54:1] [SERVER] [i] Received get friends request
+[2024-12-26 18:54:3] [SERVER] [i] Received get friends request
+[2024-12-26 18:54:7] [SERVER] [i] Received get friends request
+[2024-12-26 18:54:14] [SERVER] [i] Received chat request
+[2024-12-26 18:54:15] [SERVER] [i] Received get friends request
+[2024-12-26 18:54:22] [SERVER] [i] Received chat request
+[2024-12-26 18:54:28] [SERVER] [i] Received chat request
+[2024-12-26 18:54:33] [SERVER] [i] Received chat request
+[2024-12-26 18:54:45] [SERVER] [i] Received finding match request
+[2024-12-26 18:54:46] [SERVER] [i] Received finding match request
+[2024-12-26 18:54:46] [GAME] [i] Found match for user 21 and user 20
+[2024-12-26 18:54:54] [SERVER] [i] Received move request
